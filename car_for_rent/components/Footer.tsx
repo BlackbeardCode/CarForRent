@@ -14,7 +14,9 @@ const Footer = () => {
             </div>
 
             <div className="footer__links">
-                
+                <p>footer links</p>
+                <p>footer links</p>
+                <p>footer links</p>
             </div>
         </div>
     </footer>
